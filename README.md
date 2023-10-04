@@ -1,4 +1,4 @@
-> Cloning from my GitLab project: https://gitlab.com/cwrpg02/degree-rsw-materials-22-24/-/tree/main/2-3/ADM/Assignment?ref_type=heads
+> Cloning from my [Gitlab project](https://gitlab.com/cwrpg02/toy-store-database)
 
 This folder is for ADM assignment, finalized after our group presentation on May 5, 2023.
 
